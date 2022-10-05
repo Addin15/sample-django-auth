@@ -26,7 +26,7 @@ JWT_SECRET = '632gufvhewv9hswwqegvoivermwma987234hgvwense828h1fefu8931fjrcwf3484
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
